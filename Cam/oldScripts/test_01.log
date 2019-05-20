@@ -1,0 +1,16 @@
+Tue,29 Jan 2019 13:59:57 temp_log_test2.py[line:22] DEBUG debug message
+Tue,29 Jan 2019 13:59:57 temp_log_test2.py[line:23] INFO info message
+Tue,29 Jan 2019 13:59:57 temp_log_test2.py[line:24] WARNING warning message
+Tue,29 Jan 2019 13:59:57 temp_log_test2.py[line:25] ERROR error message
+Tue,29 Jan 2019 13:59:57 temp_log_test2.py[line:26] CRITICAL critical message
+Tue,29 Jan 2019 14:02:55 temp_log_test2.py[line:31] ERROR -------------------Exceptions Caught---------------------------------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/temp_log_test2.py", line 29, in <module>
+    1/0
+ZeroDivisionError: division by zero
+Tue,29 Jan 2019 14:04:48 temp_log_test2.py[line:31] DEBUG --------------Exceptions Caught--------
+Tue,29 Jan 2019 14:05:17 temp_log_test2.py[line:31] ERROR --------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/temp_log_test2.py", line 29, in <module>
+    1/0
+ZeroDivisionError: division by zero

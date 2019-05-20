@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/test_temp/1.py", line 3, in <module>
+    10/0
+ZeroDivisionError: division by zero

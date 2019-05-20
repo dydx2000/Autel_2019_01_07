@@ -1,0 +1,48 @@
+Wed 02 Jan 2019 10:32:23 WARNING CameraTest.py 1123 85758 Can not find Capture mode setting Bar Element in capture mode***
+Wed 02 Jan 2019 10:32:37 WARNING CameraTest.py 1298 85758 Can not find Photo size setting item in capture mode***
+Wed 02 Jan 2019 10:32:41 WARNING CameraTest.py 61 85758 Can not find capture control button in Capture Mode***
+Wed 02 Jan 2019 10:32:41 WARNING CameraTest.py 66 85758 Can not find capture control button in Capture Mode***
+Wed 02 Jan 2019 10:39:11 WARNING CameraTest.py 6655 86036 SD is full***
+Wed 02 Jan 2019 10:39:11 WARNING CameraTest.py 6655 86036 SD is full***
+Wed 02 Jan 2019 13:55:09 WARNING CameraTest.py 6655 92634 SD is full***
+Wed 02 Jan 2019 13:55:09 WARNING CameraTest.py 6655 92634 SD is full***
+Wed 02 Jan 2019 14:05:50 WARNING CameraTest.py 6691 93422 SD is full***
+Wed 02 Jan 2019 14:05:51 WARNING CameraTest.py 6691 93422 SD is full***
+Wed 02 Jan 2019 14:08:57 WARNING CameraTest.py 6693 93560 SD is full***
+Wed 02 Jan 2019 14:08:57 WARNING CameraTest.py 6693 93560 SD is full***
+Wed 02 Jan 2019 14:09:44 WARNING CameraTest.py 126 93560 SD card is full!!!
+Thu 03 Jan 2019 15:02:02 WARNING CameraTest.py 3694 43066 Can not find the album control button***
+Thu 03 Jan 2019 15:02:02 WARNING CameraTest.py 3709 43066 Can not find the muti-album control button,may be it is not in Album interface***
+Thu 03 Jan 2019 15:02:16 WARNING CameraTest.py 3694 43066 Can not find the album control button***
+Thu 03 Jan 2019 15:02:16 WARNING CameraTest.py 3709 43066 Can not find the muti-album control button,may be it is not in Album interface***
+Thu 03 Jan 2019 15:04:15 WARNING CameraTest.py 3694 43166 Can not find the album control button***
+Thu 03 Jan 2019 15:04:15 WARNING CameraTest.py 3709 43166 Can not find the muti-album control button,may be it is not in Album interface***
+Thu 03 Jan 2019 15:04:29 WARNING CameraTest.py 3694 43166 Can not find the album control button***
+Thu 03 Jan 2019 15:04:29 WARNING CameraTest.py 3709 43166 Can not find the muti-album control button,may be it is not in Album interface***
+Thu 03 Jan 2019 20:52:21 WARNING CameraTest.py 3694 1031 Can not find the album control button***
+Thu 03 Jan 2019 20:52:21 WARNING CameraTest.py 3709 1031 Can not find the muti-album control button,may be it is not in Album interface***
+Thu 03 Jan 2019 20:52:35 WARNING CameraTest.py 3694 1031 Can not find the album control button***
+Thu 03 Jan 2019 20:52:35 WARNING CameraTest.py 3709 1031 Can not find the muti-album control button,may be it is not in Album interface***
+Thu 03 Jan 2019 20:56:08 WARNING CameraTest.py 3694 1565 Can not find the album control button***
+Thu 03 Jan 2019 20:56:08 WARNING CameraTest.py 3709 1565 Can not find the muti-album control button,may be it is not in Album interface***
+Thu 03 Jan 2019 20:56:22 WARNING CameraTest.py 3694 1565 Can not find the album control button***
+Thu 03 Jan 2019 20:56:22 WARNING CameraTest.py 3709 1565 Can not find the muti-album control button,may be it is not in Album interface***
+Thu 03 Jan 2019 21:02:52 WARNING CameraTest.py 3694 1866 Can not find the album control button***
+Thu 03 Jan 2019 21:02:52 WARNING CameraTest.py 3709 1866 Can not find the muti-album control button,may be it is not in Album interface***
+Thu 03 Jan 2019 21:03:01 WARNING CameraTest.py 3694 1866 Can not find the album control button***
+Thu 03 Jan 2019 21:03:14 WARNING CameraTest.py 3694 1866 Can not find the album control button***
+Thu 03 Jan 2019 21:03:26 WARNING CameraTest.py 3694 1866 Can not find the album control button***
+Thu 03 Jan 2019 21:03:38 WARNING CameraTest.py 3694 1866 Can not find the album control button***
+Thu 03 Jan 2019 21:03:54 WARNING CameraTest.py 3694 1866 Can not find the album control button***
+Thu 03 Jan 2019 21:03:54 WARNING CameraTest.py 3709 1866 Can not find the muti-album control button,may be it is not in Album interface***
+Thu 03 Jan 2019 21:07:40 WARNING CameraTest.py 3694 2048 Can not find the album control button***
+Thu 03 Jan 2019 21:07:40 WARNING CameraTest.py 3709 2048 Can not find the muti-album control button,may be it is not in Album interface***
+Thu 03 Jan 2019 21:07:49 WARNING CameraTest.py 3694 2048 Can not find the album control button***
+Thu 03 Jan 2019 21:08:01 WARNING CameraTest.py 3694 2048 Can not find the album control button***
+Thu 03 Jan 2019 21:08:14 WARNING CameraTest.py 3694 2048 Can not find the album control button***
+Thu 03 Jan 2019 21:08:27 WARNING CameraTest.py 3694 2048 Can not find the album control button***
+Thu 03 Jan 2019 21:08:40 WARNING CameraTest.py 3694 2048 Can not find the album control button***
+Thu 03 Jan 2019 21:08:52 WARNING CameraTest.py 3694 2048 Can not find the album control button***
+Thu 03 Jan 2019 21:09:05 WARNING CameraTest.py 3694 2048 Can not find the album control button***
+Thu 03 Jan 2019 21:09:22 WARNING CameraTest.py 3694 2048 Can not find the album control button***
+Thu 03 Jan 2019 21:09:22 WARNING CameraTest.py 3709 2048 Can not find the muti-album control button,may be it is not in Album interface***

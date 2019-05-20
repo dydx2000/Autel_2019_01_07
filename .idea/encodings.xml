@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/Cam/CamMod/logger_study01.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Cam/oldScripts/CamShots.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Cam/test_temp/CamShots.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/mytest01/uiautomator2test.py" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/testframe.py" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

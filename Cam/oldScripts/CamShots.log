@@ -1,0 +1,2599 @@
+Wed,30 Jan 2019 16:04:31 uiautomator2_cam_shots.py[line:699] ERROR <class '__main__.ParaError'>
+NoneType: None
+Wed,30 Jan 2019 16:04:31 uiautomator2_cam_shots.py[line:870] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 760, in SetPictureMode
+    if i > seq:
+UnboundLocalError: local variable 'seq' referenced before assignment
+Wed,30 Jan 2019 16:07:58 uiautomator2_cam_shots.py[line:870] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 757, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Wed,30 Jan 2019 16:09:23 uiautomator2_cam_shots.py[line:870] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 757, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Wed,30 Jan 2019 16:10:55 uiautomator2_cam_shots.py[line:870] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 757, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Wed,30 Jan 2019 16:12:54 uiautomator2_cam_shots.py[line:1030] ERROR <class '__main__.ParaError'>
+NoneType: None
+Wed,30 Jan 2019 16:14:43 uiautomator2_cam_shots.py[line:1030] ERROR <class '__main__.ParaError'>
+NoneType: None
+Wed,30 Jan 2019 16:14:44 uiautomator2_cam_shots.py[line:1095] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 1048, in SetPictureIso
+    if i > seq:
+UnboundLocalError: local variable 'seq' referenced before assignment
+Wed,30 Jan 2019 16:15:42 uiautomator2_cam_shots.py[line:1030] ERROR <class '__main__.ParaError'>
+NoneType: None
+Wed,30 Jan 2019 16:15:43 uiautomator2_cam_shots.py[line:1095] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 1048, in SetPictureIso
+    if i > seq:
+UnboundLocalError: local variable 'seq' referenced before assignment
+Thu,31 Jan 2019 09:17:56 uiautomator2_cam_shots.py[line:2453] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 2451, in setVideoReso
+    d(resourceId="com.autel.explorer:id/tv_ui_first_para", text="RESULUTION").click()
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Thu,31 Jan 2019 09:17:56 uiautomator2_cam_shots.py[line:2523] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 2473, in setVideoReso
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Thu,31 Jan 2019 09:20:59 uiautomator2_cam_shots.py[line:2453] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 2451, in setVideoReso
+    d(resourceId="com.autel.explorer:id/tv_ui_first_para", text="RESULUTION").click()
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Thu,31 Jan 2019 09:20:59 uiautomator2_cam_shots.py[line:2523] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 2473, in setVideoReso
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Thu,31 Jan 2019 09:26:48 uiautomator2_cam_shots.py[line:2453] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 2451, in setVideoReso
+    d(resourceId="com.autel.explorer:id/tv_ui_first_para", text="RESULUTION").click()
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Thu,31 Jan 2019 09:26:48 uiautomator2_cam_shots.py[line:2523] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 2473, in setVideoReso
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Thu,31 Jan 2019 09:35:39 uiautomator2_cam_shots.py[line:2453] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 2451, in setVideoReso
+    d(resourceId="com.autel.explorer:id/tv_ui_first_para", text="RESULUTION").click()
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Thu,31 Jan 2019 09:35:39 uiautomator2_cam_shots.py[line:2523] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 2476, in setVideoReso
+    if i > seq:
+UnboundLocalError: local variable 'seq' referenced before assignment
+Thu,31 Jan 2019 12:40:42 uiautomator2_cam_shots.py[line:2448] ERROR <class '__main__.ParaError'>
+NoneType: None
+Thu,31 Jan 2019 12:40:53 uiautomator2_cam_shots.py[line:2453] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 2451, in setVideoReso
+    d(resourceId="com.autel.explorer:id/tv_ui_first_para", text="RESULUTION").click()
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Thu,31 Jan 2019 12:40:54 uiautomator2_cam_shots.py[line:2525] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 2475, in setVideoReso
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Thu,31 Jan 2019 12:44:00 uiautomator2_cam_shots.py[line:2449] ERROR <class '__main__.ParaError'>
+NoneType: None
+Thu,31 Jan 2019 12:44:11 uiautomator2_cam_shots.py[line:2454] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 2452, in setVideoReso
+    d(resourceId="com.autel.explorer:id/tv_ui_first_para", text="RESULUTION").click()
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Thu,31 Jan 2019 12:44:12 uiautomator2_cam_shots.py[line:2526] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 2476, in setVideoReso
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+
+Thu,31 Jan 2019 12:46:57 uiautomator2_cam_shots.py[line:2454] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 2452, in setVideoReso
+    d(resourceId="com.autel.explorer:id/tv_ui_first_para", text="RESULUTION").click()
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+
+Thu,31 Jan 2019 12:46:58 uiautomator2_cam_shots.py[line:2526] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 2476, in setVideoReso
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+
+
+Fri,01 Feb 2019 14:07:05 uiautomator2_cam_shots.py[line:2680] ERROR <class '__main__.ParaError'>
+NoneType: None
+Fri,01 Feb 2019 15:16:41 uiautomator2_cam_shots.py[line:1685] ERROR <class '__main__.ParaError'>
+NoneType: None
+Fri,01 Feb 2019 15:16:51 uiautomator2_cam_shots.py[line:1768] ERROR <class '__main__.ParaError'>
+NoneType: None
+Fri,01 Feb 2019 15:26:49 uiautomator2_cam_shots.py[line:1685] ERROR <class '__main__.ParaError'>
+NoneType: None
+Fri,01 Feb 2019 15:26:53 uiautomator2_cam_shots.py[line:1862] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 1860, in insideCircleStyle
+    d(resourceId="com.autel.explorer:id/tv_back").click()
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 746, in click
+    x, y = self.center(offset=offset)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 763, in center
+    info = self.info
+  File "<decorator-gen-6>", line 2, in info
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\retry\api.py", line 74, in retry_decorator
+    logger)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\retry\api.py", line 33, in __retry_internal
+    return f()
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 728, in info
+    return self.jsonrpc.objInfo(self.selector)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\__init__.py", line 363, in __call__
+    params, http_timeout)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\__init__.py", line 370, in jsonrpc_retry_call
+    return self.jsonrpc_call(*args, **kwargs)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\__init__.py", line 449, in jsonrpc_call
+    raise err
+uiautomator2.exceptions.UiObjectNotFoundError: -32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[RESOURCE_ID=com.autel.explorer:id/tv_back], method: objInfo
+Fri,01 Feb 2019 15:27:04 uiautomator2_cam_shots.py[line:1869] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 1866, in insideCircleStyle
+    d(resourceId="com.autel.explorer:id/tv_ui_second_para").click()
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Sat,02 Feb 2019 09:11:57 uiautomator2_cam_shots.py[line:2287] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\urllib3\connectionpool.py", line 384, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\urllib3\connectionpool.py", line 380, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\http\client.py", line 1331, in getresponse
+    response.begin()
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\http\client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\http\client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\adapters.py", line 449, in send
+    timeout=timeout
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\urllib3\connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\urllib3\util\retry.py", line 367, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\urllib3\packages\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\urllib3\connectionpool.py", line 384, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\urllib3\connectionpool.py", line 380, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\http\client.py", line 1331, in getresponse
+    response.begin()
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\http\client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\http\client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\__init__.py", line 185, in request
+    method, url, **kwargs)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 2273, in scrollToAVFunc
+    if  d(resourceId="com.autel.explorer:id/tv_ui_first_para", text=func).exists():
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\utils.py", line 91, in __call__
+    return bool(self)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\utils.py", line 81, in __bool__
+    return self.__nonzero__()
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\utils.py", line 77, in __nonzero__
+    return self.uiobject.jsonrpc.exist(self.uiobject.selector)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\__init__.py", line 363, in __call__
+    params, http_timeout)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\__init__.py", line 370, in jsonrpc_retry_call
+    return self.jsonrpc_call(*args, **kwargs)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\__init__.py", line 413, in jsonrpc_call
+    data=data)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\requests\sessions.py", line 581, in post
+    return self.request('POST', url, data=data, json=json, **kwargs)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\__init__.py", line 188, in request
+    "atx-agent is not running. Fix it with following steps.\n1. Plugin device into computer.\n2. Run command \"python -m uiautomator2 init\""
+OSError: atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+Sat,02 Feb 2019 09:27:04 uiautomator2_cam_shots.py[line:2240] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 09:32:28 uiautomator2_cam_shots.py[line:2240] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 09:32:57 uiautomator2_cam_shots.py[line:2240] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 09:33:35 uiautomator2_cam_shots.py[line:2240] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 09:35:46 uiautomator2_cam_shots.py[line:2240] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 12:08:18 uiautomator2_cam_shots.py[line:2289] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 2251, in scrollToAVFunc
+    if  d(resourceId="com.autel.explorer:id/tv_ui_first_para", text=listAll[i]).exists():
+IndexError: list index out of range
+Sat,02 Feb 2019 12:10:49 uiautomator2_cam_shots.py[line:2585] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 12:10:50 uiautomator2_cam_shots.py[line:2649] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 2602, in setVideoFramerate
+    if i > seq:
+UnboundLocalError: local variable 'seq' referenced before assignment
+Sat,02 Feb 2019 12:41:26 uiautomator2_cam_shots.py[line:2585] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 12:41:26 uiautomator2_cam_shots.py[line:2649] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 2602, in setVideoFramerate
+    if i > seq:
+UnboundLocalError: local variable 'seq' referenced before assignment
+
+xxx
+
+
+Sat,02 Feb 2019 12:49:05 uiautomator2_cam_shots.py[line:2656] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 12:50:40 uiautomator2_cam_shots.py[line:2656] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 12:51:43 uiautomator2_cam_shots.py[line:2656] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 12:54:05 uiautomator2_cam_shots.py[line:2656] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 12:55:31 uiautomator2_cam_shots.py[line:2660] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 12:56:16 uiautomator2_cam_shots.py[line:2658] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 12:56:44 uiautomator2_cam_shots.py[line:2656] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 12:57:55 uiautomator2_cam_shots.py[line:2656] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 12:59:18 uiautomator2_cam_shots.py[line:2661] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 13:00:09 uiautomator2_cam_shots.py[line:2661] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 13:00:34 uiautomator2_cam_shots.py[line:2661] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 13:01:06 uiautomator2_cam_shots.py[line:2661] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 13:02:17 uiautomator2_cam_shots.py[line:2661] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 13:05:52 uiautomator2_cam_shots.py[line:2660] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 16:25:39 uiautomator2_cam_shots.py[line:460] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 16:26:49 uiautomator2_cam_shots.py[line:460] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 16:27:26 uiautomator2_cam_shots.py[line:460] ERROR <class '__main__.ParaError'>
+NoneType: None
+
+16:29
+
+Sat,02 Feb 2019 16:30:40 uiautomator2_cam_shots.py[line:460] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 16:45:50 uiautomator2_cam_shots.py[line:2303] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 2265, in scrollToAVFunc
+    if  d(resourceId="com.autel.explorer:id/tv_ui_first_para", text=listAll[i]).exists():
+IndexError: list index out of range
+Sat,02 Feb 2019 16:49:41 uiautomator2_cam_shots.py[line:2303] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 2265, in scrollToAVFunc
+    if  d(resourceId="com.autel.explorer:id/tv_ui_first_para", text=listAll[i]).exists():
+IndexError: list index out of range
+Sat,02 Feb 2019 16:50:53 uiautomator2_cam_shots.py[line:2677] ERROR <class '__main__.ParaError'>
+NoneType: None
+
+
+Sat,02 Feb 2019 17:22:19 uiautomator2_cam_shots.py[line:2683] ERROR <class '__main__.ParaError'>
+NoneType: None
+Sat,02 Feb 2019 17:29:29 uiautomator2_cam_shots.py[line:2142] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 2140, in GimbalAngle
+    d(resourceId="com.autel.explorer:id/tv_second_para", text=num).click()
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\A17253\AppData\Local\Programs\Python\Python36-32\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+
+Sat,02 Feb 2019 17:48:14 uiautomator2_cam_shots.py[line:2310] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 2272, in scrollToAVFunc
+    if  d(resourceId="com.autel.explorer:id/tv_ui_first_para", text=listAll[i]).exists():
+IndexError: list index out of range
+Sat,02 Feb 2019 17:49:17 uiautomator2_cam_shots.py[line:2684] ERROR <class '__main__.ParaError'>
+NoneType: None
+Tue,12 Feb 2019 09:05:09 uiautomator2_cam_shots.py[line:177] ERROR <class '__main__.SwitchError'>
+NoneType: None
+Tue,12 Feb 2019 09:05:13 uiautomator2_cam_shots.py[line:243] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 205, in scrollToFunc
+    if  d(resourceId="com.autel.explorer:id/tv_ui_first_para", text=listAll[i]).exists():
+IndexError: list index out of range
+Tue,12 Feb 2019 09:23:57 uiautomator2_cam_shots.py[line:2310] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/uiautomator2_cam_shots.py", line 2272, in scrollToAVFunc
+    if  d(resourceId="com.autel.explorer:id/tv_ui_first_para", text=listAll[i]).exists():
+IndexError: list index out of range
+Tue,12 Feb 2019 09:25:01 uiautomator2_cam_shots.py[line:2684] ERROR <class '__main__.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 18:06:39 uiautomator2_cam_shots.py[line:461] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 18:06:40 uiautomator2_cam_shots.py[line:461] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 18:09:08 uiautomator2_cam_shots.py[line:461] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 18:09:09 uiautomator2_cam_shots.py[line:461] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 18:09:19 uiautomator2_cam_shots.py[line:461] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 18:09:20 uiautomator2_cam_shots.py[line:461] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 18:09:31 uiautomator2_cam_shots.py[line:461] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 18:09:32 uiautomator2_cam_shots.py[line:461] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 18:09:41 uiautomator2_cam_shots.py[line:461] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 18:09:43 uiautomator2_cam_shots.py[line:461] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 18:09:52 uiautomator2_cam_shots.py[line:461] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 18:09:53 uiautomator2_cam_shots.py[line:461] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 18:11:33 uiautomator2_cam_shots.py[line:462] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 18:11:35 uiautomator2_cam_shots.py[line:454] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 407, in insideCircleBurst
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,13 Feb 2019 18:11:45 uiautomator2_cam_shots.py[line:462] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 19:26:03 uiautomator2_cam_shots.py[line:462] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 19:26:05 uiautomator2_cam_shots.py[line:454] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 407, in insideCircleBurst
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,13 Feb 2019 19:26:14 uiautomator2_cam_shots.py[line:462] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 19:26:16 uiautomator2_cam_shots.py[line:454] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 407, in insideCircleBurst
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,13 Feb 2019 19:26:25 uiautomator2_cam_shots.py[line:462] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 19:26:27 uiautomator2_cam_shots.py[line:454] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 407, in insideCircleBurst
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,13 Feb 2019 19:26:35 uiautomator2_cam_shots.py[line:877] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 764, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Wed,13 Feb 2019 19:26:36 uiautomator2_cam_shots.py[line:454] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 407, in insideCircleBurst
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,13 Feb 2019 19:26:44 uiautomator2_cam_shots.py[line:877] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 764, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Wed,13 Feb 2019 19:26:45 uiautomator2_cam_shots.py[line:454] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 407, in insideCircleBurst
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,13 Feb 2019 19:27:35 uiautomator2_cam_shots.py[line:462] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 19:27:37 uiautomator2_cam_shots.py[line:454] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 407, in insideCircleBurst
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,13 Feb 2019 19:27:46 uiautomator2_cam_shots.py[line:462] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 19:27:48 uiautomator2_cam_shots.py[line:454] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 407, in insideCircleBurst
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,13 Feb 2019 19:27:56 uiautomator2_cam_shots.py[line:877] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 764, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Wed,13 Feb 2019 19:27:57 uiautomator2_cam_shots.py[line:454] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 407, in insideCircleBurst
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,13 Feb 2019 19:28:07 uiautomator2_cam_shots.py[line:462] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 19:28:09 uiautomator2_cam_shots.py[line:454] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 407, in insideCircleBurst
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,13 Feb 2019 19:33:10 uiautomator2_cam_shots.py[line:462] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 19:33:20 uiautomator2_cam_shots.py[line:462] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 19:33:29 uiautomator2_cam_shots.py[line:462] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Wed,13 Feb 2019 19:44:31 uiautomator2_cam_shots.py[line:178] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,13 Feb 2019 19:44:34 uiautomator2_cam_shots.py[line:244] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 206, in scrollToFunc
+    if  d(resourceId="com.autel.explorer:id/tv_ui_first_para", text=listAll[i]).exists():
+IndexError: list index out of range
+Wed,13 Feb 2019 19:44:45 uiautomator2_cam_shots.py[line:655] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 653, in SetPictureMode
+    d(resourceId="com.autel.explorer:id/tv_ui_first_para", text='MODE').click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Wed,13 Feb 2019 19:44:46 uiautomator2_cam_shots.py[line:879] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 766, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Wed,13 Feb 2019 19:44:47 uiautomator2_cam_shots.py[line:178] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,13 Feb 2019 19:44:50 uiautomator2_cam_shots.py[line:244] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 206, in scrollToFunc
+    if  d(resourceId="com.autel.explorer:id/tv_ui_first_para", text=listAll[i]).exists():
+IndexError: list index out of range
+Wed,13 Feb 2019 19:45:00 uiautomator2_cam_shots.py[line:655] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 653, in SetPictureMode
+    d(resourceId="com.autel.explorer:id/tv_ui_first_para", text='MODE').click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Wed,13 Feb 2019 19:45:01 uiautomator2_cam_shots.py[line:879] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 766, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Wed,13 Feb 2019 20:05:31 uiautomator2_cam_shots.py[line:879] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 766, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Wed,13 Feb 2019 20:05:48 uiautomator2_cam_shots.py[line:879] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 766, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Wed,13 Feb 2019 20:06:04 uiautomator2_cam_shots.py[line:879] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 766, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Wed,13 Feb 2019 20:15:49 uiautomator2_cam_shots.py[line:879] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 766, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Wed,13 Feb 2019 20:16:06 uiautomator2_cam_shots.py[line:879] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 766, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Wed,13 Feb 2019 20:16:22 uiautomator2_cam_shots.py[line:879] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 766, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Wed,13 Feb 2019 20:19:28 uiautomator2_cam_shots.py[line:879] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 766, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Wed,13 Feb 2019 20:19:45 uiautomator2_cam_shots.py[line:879] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 766, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Thu,14 Feb 2019 08:59:49 uiautomator2_cam_shots.py[line:879] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 766, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Thu,14 Feb 2019 09:00:09 uiautomator2_cam_shots.py[line:879] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 766, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Thu,14 Feb 2019 09:00:29 uiautomator2_cam_shots.py[line:879] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 766, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Thu,14 Feb 2019 09:01:55 uiautomator2_cam_shots.py[line:879] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 766, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Thu,14 Feb 2019 09:02:16 uiautomator2_cam_shots.py[line:879] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 766, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Thu,14 Feb 2019 09:02:36 uiautomator2_cam_shots.py[line:879] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 766, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Thu,14 Feb 2019 09:15:51 uiautomator2_cam_shots.py[line:554] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Thu,14 Feb 2019 09:16:04 uiautomator2_cam_shots.py[line:554] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Thu,14 Feb 2019 09:16:46 uiautomator2_cam_shots.py[line:554] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Thu,14 Feb 2019 09:17:00 uiautomator2_cam_shots.py[line:554] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Thu,14 Feb 2019 09:36:16 uiautomator2_cam_shots.py[line:554] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Thu,14 Feb 2019 09:36:29 uiautomator2_cam_shots.py[line:554] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Thu,14 Feb 2019 09:44:54 uiautomator2_cam_shots.py[line:879] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 766, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Thu,14 Feb 2019 10:25:46 uiautomator2_cam_shots.py[line:880] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 767, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Thu,14 Feb 2019 11:03:39 uiautomator2_cam_shots.py[line:880] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 767, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Thu,14 Feb 2019 11:26:18 uiautomator2_cam_shots.py[line:2555] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 2508, in setVideoReso
+    if i > seq:
+UnboundLocalError: local variable 'seq' referenced before assignment
+Thu,14 Feb 2019 11:26:57 uiautomator2_cam_shots.py[line:2477] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Thu,14 Feb 2019 11:26:58 uiautomator2_cam_shots.py[line:2555] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 2508, in setVideoReso
+    if i > seq:
+UnboundLocalError: local variable 'seq' referenced before assignment
+Thu,14 Feb 2019 11:31:15 uiautomator2_cam_shots.py[line:2555] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 2508, in setVideoReso
+    if i > seq:
+UnboundLocalError: local variable 'seq' referenced before assignment
+Thu,14 Feb 2019 11:31:53 uiautomator2_cam_shots.py[line:2477] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Thu,14 Feb 2019 11:31:54 uiautomator2_cam_shots.py[line:2555] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 2505, in setVideoReso
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Thu,14 Feb 2019 11:35:12 uiautomator2_cam_shots.py[line:2555] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 2508, in setVideoReso
+    if i > seq:
+UnboundLocalError: local variable 'seq' referenced before assignment
+Thu,14 Feb 2019 11:35:51 uiautomator2_cam_shots.py[line:2477] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Thu,14 Feb 2019 11:35:52 uiautomator2_cam_shots.py[line:2555] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 2508, in setVideoReso
+    if i > seq:
+UnboundLocalError: local variable 'seq' referenced before assignment
+
+zhiliu
+Thu,14 Feb 2019 11:48:49 uiautomator2_cam_shots.py[line:2558] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 2508, in setVideoReso
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Thu,14 Feb 2019 11:52:27 uiautomator2_cam_shots.py[line:2558] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 2508, in setVideoReso
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Thu,14 Feb 2019 19:15:45 uiautomator2_cam_shots.py[line:1381] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Thu,14 Feb 2019 19:20:51 uiautomator2_cam_shots.py[line:1381] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Fri,15 Feb 2019 10:33:14 uiautomator2_cam_shots.py[line:1382] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.ParaError'>
+NoneType: None
+Fri,15 Feb 2019 11:36:09 uiautomator2_cam_shots.py[line:179] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Fri,15 Feb 2019 11:36:12 uiautomator2_cam_shots.py[line:245] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 207, in scrollToFunc
+    if  d(resourceId="com.autel.explorer:id/tv_ui_first_para", text=listAll[i]).exists():
+IndexError: list index out of range
+Fri,15 Feb 2019 11:36:23 uiautomator2_cam_shots.py[line:995] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 993, in SetPictureExpo
+    d(resourceId="com.autel.explorer:id/tv_ui_first_para", text="EXPOSURE MODE").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 11:36:34 uiautomator2_cam_shots.py[line:1006] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 1004, in SetPictureExpo
+    d(resourceId="com.autel.explorer:id/tv_second_para", text=u"MANUAL").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 11:36:36 uiautomator2_cam_shots.py[line:179] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Fri,15 Feb 2019 11:36:39 uiautomator2_cam_shots.py[line:245] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 207, in scrollToFunc
+    if  d(resourceId="com.autel.explorer:id/tv_ui_first_para", text=listAll[i]).exists():
+IndexError: list index out of range
+Fri,15 Feb 2019 11:36:49 uiautomator2_cam_shots.py[line:1136] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 1134, in SetPictureShutter
+    d(resourceId="com.autel.explorer:id/tv_ui_first_para", text="SHUTTER").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 15:59:45 uiautomator2_cam_shots.py[line:247] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 209, in scrollToFunc
+    if  d(resourceId="com.autel.explorer:id/tv_ui_first_para", text=listAll[i]).exists():
+IndexError: list index out of range
+Fri,15 Feb 2019 15:59:56 uiautomator2_cam_shots.py[line:997] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 995, in SetPictureExpo
+    d(resourceId="com.autel.explorer:id/tv_ui_first_para", text="EXPOSURE MODE").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 16:52:55 uiautomator2_cam_shots.py[line:888] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 775, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 16:53:01 uiautomator2_cam_shots.py[line:888] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 775, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 16:53:17 uiautomator2_cam_shots.py[line:888] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 775, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 16:53:53 uiautomator2_cam_shots.py[line:888] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 775, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 16:54:00 uiautomator2_cam_shots.py[line:888] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 775, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 16:54:25 uiautomator2_cam_shots.py[line:888] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 775, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 16:54:54 uiautomator2_cam_shots.py[line:888] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 775, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 16:55:00 uiautomator2_cam_shots.py[line:888] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 775, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 16:55:06 uiautomator2_cam_shots.py[line:888] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 775, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 16:55:12 uiautomator2_cam_shots.py[line:888] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 775, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 16:55:33 uiautomator2_cam_shots.py[line:1013] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 1011, in SetPictureExpo
+    d(resourceId="com.autel.explorer:id/tv_second_para", text=u"MANUAL").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 16:55:39 uiautomator2_cam_shots.py[line:888] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 775, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 16:56:08 uiautomator2_cam_shots.py[line:888] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 775, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 16:56:29 uiautomator2_cam_shots.py[line:557] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 538, in insideCircleTimelapse
+    d(resourceId="com.autel.explorer:id/tv_second_para", text=num).click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 16:57:37 uiautomator2_cam_shots.py[line:557] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 508, in insideCircleTimelapse
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:13:29 uiautomator2_cam_shots.py[line:478] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 431, in insideCircleBurst
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:13:38 uiautomator2_cam_shots.py[line:478] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 431, in insideCircleBurst
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:13:57 uiautomator2_cam_shots.py[line:696] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 694, in SetPictureMode
+    d(resourceId="com.autel.explorer:id/tv_second_para", text=mode).click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 17:13:58 uiautomator2_cam_shots.py[line:478] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 431, in insideCircleBurst
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:14:07 uiautomator2_cam_shots.py[line:478] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 431, in insideCircleBurst
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:14:15 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:14:21 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:14:47 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:14:55 uiautomator2_cam_shots.py[line:572] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 523, in insideCircleTimelapse
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:15:02 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:15:09 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:16:03 uiautomator2_cam_shots.py[line:572] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 523, in insideCircleTimelapse
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:16:10 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:16:17 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:16:24 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:16:52 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:17:22 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:17:42 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:19:20 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:19:42 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:19:50 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:27:46 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:28:00 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:28:42 uiautomator2_cam_shots.py[line:323] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 318, in SetPictureFomat
+    d(resourceId="com.autel.explorer:id/tv_second_para", text="RAW").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 17:29:33 uiautomator2_cam_shots.py[line:478] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 431, in insideCircleBurst
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:29:43 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:30:04 uiautomator2_cam_shots.py[line:718] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 712, in SetPictureMode
+    self.insideCircleBurst(num)
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 416, in insideCircleBurst
+    d(resourceId="com.autel.explorer:id/tv_second_para", text=num).click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 17:30:13 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:30:43 uiautomator2_cam_shots.py[line:572] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 523, in insideCircleTimelapse
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:31:52 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:34:15 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:35:24 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:36:33 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:37:53 uiautomator2_cam_shots.py[line:323] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 318, in SetPictureFomat
+    d(resourceId="com.autel.explorer:id/tv_second_para", text="RAW").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 17:37:58 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:38:30 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:38:54 uiautomator2_cam_shots.py[line:323] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 318, in SetPictureFomat
+    d(resourceId="com.autel.explorer:id/tv_second_para", text="RAW").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 17:39:00 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:39:29 uiautomator2_cam_shots.py[line:478] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 431, in insideCircleBurst
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:39:38 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:39:47 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:39:55 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:41:26 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:43:50 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:45:02 uiautomator2_cam_shots.py[line:572] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 523, in insideCircleTimelapse
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:47:36 uiautomator2_cam_shots.py[line:323] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 321, in SetPictureFomat
+    d(resourceId="com.autel.explorer:id/tv_second_para", text="RAW+JPG").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 17:47:42 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:48:22 uiautomator2_cam_shots.py[line:290] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 288, in SetPictureSize
+    d(resourceId="com.autel.explorer:id/tv_second_para", text=u"4000x3000(4:3)").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 17:48:46 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:49:40 uiautomator2_cam_shots.py[line:478] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 431, in insideCircleBurst
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:49:51 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:50:01 uiautomator2_cam_shots.py[line:478] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 431, in insideCircleBurst
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:50:23 uiautomator2_cam_shots.py[line:718] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 712, in SetPictureMode
+    self.insideCircleBurst(num)
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 416, in insideCircleBurst
+    d(resourceId="com.autel.explorer:id/tv_second_para", text=num).click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 17:51:51 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:53:00 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:54:09 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:55:19 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:56:28 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:58:01 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:58:15 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:58:38 uiautomator2_cam_shots.py[line:323] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 318, in SetPictureFomat
+    d(resourceId="com.autel.explorer:id/tv_second_para", text="RAW").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 17:58:45 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:59:07 uiautomator2_cam_shots.py[line:323] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 318, in SetPictureFomat
+    d(resourceId="com.autel.explorer:id/tv_second_para", text="RAW").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 17:59:12 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:59:21 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 17:59:43 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 18:00:10 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 18:01:22 uiautomator2_cam_shots.py[line:572] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 523, in insideCircleTimelapse
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 18:02:34 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 18:03:46 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 18:04:59 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 18:06:12 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 18:07:33 uiautomator2_cam_shots.py[line:323] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 318, in SetPictureFomat
+    d(resourceId="com.autel.explorer:id/tv_second_para", text="RAW").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 18:08:17 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 18:08:41 uiautomator2_cam_shots.py[line:323] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 318, in SetPictureFomat
+    d(resourceId="com.autel.explorer:id/tv_second_para", text="RAW").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 18:09:06 uiautomator2_cam_shots.py[line:323] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 321, in SetPictureFomat
+    d(resourceId="com.autel.explorer:id/tv_second_para", text="RAW+JPG").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 18:09:39 uiautomator2_cam_shots.py[line:478] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 431, in insideCircleBurst
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 18:09:52 uiautomator2_cam_shots.py[line:718] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 712, in SetPictureMode
+    self.insideCircleBurst(num)
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 416, in insideCircleBurst
+    d(resourceId="com.autel.explorer:id/tv_second_para", text=num).click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 746, in click
+    x, y = self.center(offset=offset)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 763, in center
+    info = self.info
+  File "<decorator-gen-6>", line 2, in info
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\retry\api.py", line 74, in retry_decorator
+    logger)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\retry\api.py", line 33, in __retry_internal
+    return f()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 728, in info
+    return self.jsonrpc.objInfo(self.selector)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\__init__.py", line 363, in __call__
+    params, http_timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\__init__.py", line 370, in jsonrpc_retry_call
+    return self.jsonrpc_call(*args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\__init__.py", line 449, in jsonrpc_call
+    raise err
+uiautomator2.exceptions.UiObjectNotFoundError: -32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=10, RESOURCE_ID=com.autel.explorer:id/tv_second_para], method: objInfo
+Fri,15 Feb 2019 18:10:04 uiautomator2_cam_shots.py[line:718] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 712, in SetPictureMode
+    self.insideCircleBurst(num)
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 416, in insideCircleBurst
+    d(resourceId="com.autel.explorer:id/tv_second_para", text=num).click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 746, in click
+    x, y = self.center(offset=offset)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 763, in center
+    info = self.info
+  File "<decorator-gen-6>", line 2, in info
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\retry\api.py", line 74, in retry_decorator
+    logger)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\retry\api.py", line 33, in __retry_internal
+    return f()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 728, in info
+    return self.jsonrpc.objInfo(self.selector)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\__init__.py", line 363, in __call__
+    params, http_timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\__init__.py", line 370, in jsonrpc_retry_call
+    return self.jsonrpc_call(*args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\__init__.py", line 449, in jsonrpc_call
+    raise err
+uiautomator2.exceptions.UiObjectNotFoundError: -32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=14, RESOURCE_ID=com.autel.explorer:id/tv_second_para], method: objInfo
+Fri,15 Feb 2019 18:10:21 uiautomator2_cam_shots.py[line:572] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 523, in insideCircleTimelapse
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 18:12:45 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:29:54 uiautomator2_cam_shots.py[line:718] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 704, in SetPictureMode
+    self.insideCircleBurst(num)
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 416, in insideCircleBurst
+    d(resourceId="com.autel.explorer:id/tv_second_para", text=num).click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 20:30:03 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:30:38 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:30:48 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:31:31 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:31:38 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:31:45 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:31:52 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:31:59 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:32:06 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:32:28 uiautomator2_cam_shots.py[line:1028] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 1026, in SetPictureExpo
+    d(resourceId="com.autel.explorer:id/tv_second_para", text=u"MANUAL").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 20:32:34 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:33:05 uiautomator2_cam_shots.py[line:572] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 523, in insideCircleTimelapse
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:33:12 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:33:18 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:34:11 uiautomator2_cam_shots.py[line:572] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 523, in insideCircleTimelapse
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:35:39 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:35:51 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:36:00 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:36:08 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:36:17 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:36:26 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:37:52 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:39:03 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:40:13 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:41:23 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:42:33 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:43:46 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:43:59 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:44:19 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:44:41 uiautomator2_cam_shots.py[line:323] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 318, in SetPictureFomat
+    d(resourceId="com.autel.explorer:id/tv_second_para", text="RAW").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 20:44:47 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:44:55 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:45:04 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:45:13 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:45:22 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:45:39 uiautomator2_cam_shots.py[line:323] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 318, in SetPictureFomat
+    d(resourceId="com.autel.explorer:id/tv_second_para", text="RAW").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 20:46:59 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:48:10 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:50:34 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:51:43 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:53:03 uiautomator2_cam_shots.py[line:323] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 318, in SetPictureFomat
+    d(resourceId="com.autel.explorer:id/tv_second_para", text="RAW").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 20:53:09 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:53:22 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:53:46 uiautomator2_cam_shots.py[line:323] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 318, in SetPictureFomat
+    d(resourceId="com.autel.explorer:id/tv_second_para", text="RAW").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 20:54:25 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 20:54:36 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:01:30 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:11:04 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:12:17 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:15:41 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:16:51 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:18:01 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:19:11 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:20:21 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:21:35 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:21:48 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:26:07 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:28:31 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:29:41 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:30:54 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:31:34 uiautomator2_cam_shots.py[line:478] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 431, in insideCircleBurst
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:32:20 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:32:29 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:32:39 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:32:48 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:32:57 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:33:07 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:33:15 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:33:25 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:33:34 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:34:12 uiautomator2_cam_shots.py[line:1028] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 1026, in SetPictureExpo
+    d(resourceId="com.autel.explorer:id/tv_second_para", text=u"MANUAL").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 21:34:17 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:34:24 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:34:30 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:34:36 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:34:43 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:34:49 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:39:04 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:40:14 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:45:10 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:45:23 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:48:29 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:49:38 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:50:48 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:51:58 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:53:09 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:54:22 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:54:35 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:54:52 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:55:10 uiautomator2_cam_shots.py[line:323] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 321, in SetPictureFomat
+    d(resourceId="com.autel.explorer:id/tv_second_para", text="RAW+JPG").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 21:55:16 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:55:25 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:55:34 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:55:43 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:55:52 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:56:10 uiautomator2_cam_shots.py[line:323] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 321, in SetPictureFomat
+    d(resourceId="com.autel.explorer:id/tv_second_para", text="RAW+JPG").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 21:56:17 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:57:26 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:58:36 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 21:59:46 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:00:55 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:02:06 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:03:25 uiautomator2_cam_shots.py[line:323] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 321, in SetPictureFomat
+    d(resourceId="com.autel.explorer:id/tv_second_para", text="RAW+JPG").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 22:03:31 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:03:42 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:04:03 uiautomator2_cam_shots.py[line:296] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 294, in SetPictureSize
+    d(resourceId="com.autel.explorer:id/tv_second_para").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 22:04:18 uiautomator2_cam_shots.py[line:323] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 315, in SetPictureFomat
+    d(resourceId="com.autel.explorer:id/tv_second_para").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 22:04:24 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:04:42 uiautomator2_cam_shots.py[line:323] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 315, in SetPictureFomat
+    d(resourceId="com.autel.explorer:id/tv_second_para").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 22:04:48 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:04:56 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:05:05 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:05:54 uiautomator2_cam_shots.py[line:323] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 315, in SetPictureFomat
+    d(resourceId="com.autel.explorer:id/tv_second_para").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 22:12:12 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:13:32 uiautomator2_cam_shots.py[line:323] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 315, in SetPictureFomat
+    d(resourceId="com.autel.explorer:id/tv_second_para").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 22:13:38 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:13:51 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:14:07 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:19:18 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:20:27 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:21:37 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:22:50 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:23:03 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:23:19 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:23:37 uiautomator2_cam_shots.py[line:323] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 321, in SetPictureFomat
+    d(resourceId="com.autel.explorer:id/tv_second_para", text="RAW+JPG").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 22:23:43 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:23:52 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:24:00 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:24:09 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:24:17 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:25:46 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:26:55 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:28:05 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:29:15 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:32:30 uiautomator2_cam_shots.py[line:323] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 315, in SetPictureFomat
+    d(resourceId="com.autel.explorer:id/tv_second_para").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,15 Feb 2019 22:36:33 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:44:55 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:46:05 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:47:16 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:48:25 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:56:55 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 22:58:04 uiautomator2_cam_shots.py[line:903] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 790, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Fri,15 Feb 2019 23:11:03 uiautomator2_cam_shots.py[line:4122] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 4116, in camSetVideoEncoding
+    d(resourceId="com.autel.explorer:id/general_setting_tv_item_value", text=u"H.265").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,22 Mar 2019 09:52:03 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+NoneType: None
+Fri,22 Mar 2019 09:52:08 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 2183, in camSetAntiFlicker
+    self.catchError()
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 139, in catchError
+    d.screenshot(errpic)
+  File "<decorator-gen-2>", line 2, in screenshot
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\retry\api.py", line 74, in retry_decorator
+    logger)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\retry\api.py", line 33, in __retry_internal
+    return f()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 436, in screenshot
+    with open(filename, 'wb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './errorshots/2019-03-22_09-52-03_Error.jpg'
+Fri,22 Mar 2019 09:54:17 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+NoneType: None
+Fri,22 Mar 2019 09:55:44 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 1889, in record
+    d(resourceId="com.autel.explorer:id/iv_camera_record_controller").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 746, in click
+    x, y = self.center(offset=offset)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 763, in center
+    info = self.info
+  File "<decorator-gen-6>", line 2, in info
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\retry\api.py", line 74, in retry_decorator
+    logger)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\retry\api.py", line 33, in __retry_internal
+    return f()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 728, in info
+    return self.jsonrpc.objInfo(self.selector)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\__init__.py", line 363, in __call__
+    params, http_timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\__init__.py", line 370, in jsonrpc_retry_call
+    return self.jsonrpc_call(*args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\__init__.py", line 449, in jsonrpc_call
+    raise err
+uiautomator2.exceptions.UiObjectNotFoundError: -32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[RESOURCE_ID=com.autel.explorer:id/iv_camera_record_controller], method: objInfo
+Fri,22 Mar 2019 09:56:31 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 806, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,22 Mar 2019 09:56:58 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 806, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,22 Mar 2019 09:58:09 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+NoneType: None
+Fri,22 Mar 2019 10:07:07 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+NoneType: None
+Fri,22 Mar 2019 10:16:23 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+NoneType: None
+Fri,22 Mar 2019 10:25:21 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+NoneType: None
+Fri,22 Mar 2019 10:34:23 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+NoneType: None
+Fri,22 Mar 2019 10:43:19 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+NoneType: None
+Fri,22 Mar 2019 10:52:17 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+NoneType: None
+Fri,22 Mar 2019 10:53:40 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 806, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,22 Mar 2019 10:54:01 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 806, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,22 Mar 2019 10:54:26 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 806, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,22 Mar 2019 10:55:11 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 806, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,22 Mar 2019 10:59:27 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 2318, in camSettingsReset
+    d(resourceId="com.autel.explorer:id/tv_ok").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,22 Mar 2019 11:00:56 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 2180, in camSetAntiFlicker
+    d(resourceId="com.autel.explorer:id/general_setting_tv_item_value", text=u"50Hz").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,22 Mar 2019 11:00:56 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 2180, in camSetAntiFlicker
+    d(resourceId="com.autel.explorer:id/general_setting_tv_item_value", text=u"50Hz").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,22 Mar 2019 11:01:31 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 2190, in camSetAntiFlicker
+    d(resourceId="com.autel.explorer:id/general_setting_tv_item_value", text=u"60Hz").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,22 Mar 2019 11:02:19 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 806, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,22 Mar 2019 11:02:39 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 806, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,22 Mar 2019 11:03:05 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 806, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Fri,22 Mar 2019 11:03:50 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 806, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Sat,23 Mar 2019 14:02:51 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 806, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Sat,23 Mar 2019 14:03:53 uiautomator2_cam_shots_filter.py[line:134] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 382, in FunctionSelect
+    if d(resourceId="com.autel.explorer:id/tv_ui_first_para", text=listAll[i]).exists():
+IndexError: list index out of range
+Wed,10 Apr 2019 20:35:29 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 481, in insideListCircleCommon
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,10 Apr 2019 20:35:36 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 1213, in insideCircleStyle
+    d(resourceId="com.autel.explorer:id/tv_back").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Wed,10 Apr 2019 20:38:21 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 635, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Wed,10 Apr 2019 20:44:14 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 808, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,10 Apr 2019 20:44:24 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 808, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,10 Apr 2019 20:45:41 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 808, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,10 Apr 2019 20:46:19 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 808, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,10 Apr 2019 20:47:21 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 808, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,10 Apr 2019 20:47:31 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 808, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,10 Apr 2019 20:49:06 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 808, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,10 Apr 2019 20:49:22 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 808, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,10 Apr 2019 20:51:08 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 808, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,10 Apr 2019 20:52:08 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 808, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,10 Apr 2019 20:52:33 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 808, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,10 Apr 2019 20:58:07 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 959, in SetPictureShutterOP
+    elenum = d(resourceId="com.autel.explorer:id/tv_second_para").get_text()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 945, in get_text
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Wed,10 Apr 2019 20:58:19 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 808, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,10 Apr 2019 21:03:57 uiautomator2_cam_shots_filter.py[line:1304] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 1302, in GimbalAngle
+    d(resourceId="com.autel.explorer:id/tv_second_para", text=num).click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Wed,10 Apr 2019 21:05:12 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+NoneType: None
+Wed,10 Apr 2019 21:06:30 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 808, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Wed,10 Apr 2019 21:09:44 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 1891, in record
+    d(resourceId="com.autel.explorer:id/iv_camera_record_controller").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Wed,10 Apr 2019 21:11:16 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 2320, in camSettingsReset
+    d(resourceId="com.autel.explorer:id/tv_ok").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Thu,11 Apr 2019 08:38:45 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 808, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Thu,11 Apr 2019 08:44:17 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+NoneType: None
+Thu,11 Apr 2019 08:45:39 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 808, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Thu,11 Apr 2019 08:46:00 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 808, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Thu,11 Apr 2019 08:46:25 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 808, in outsidecircle
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listPara[i]):
+IndexError: list index out of range
+Thu,11 Apr 2019 08:50:07 uiautomator2_cam_shots_filter.py[line:136] ERROR 
+------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\uiautomator2_cam_shots_filter.py", line 2320, in camSettingsReset
+    d(resourceId="com.autel.explorer:id/tv_ok").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None

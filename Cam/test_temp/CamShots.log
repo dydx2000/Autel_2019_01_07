@@ -1,0 +1,505 @@
+Wed,27 Feb 2019 16:23:30 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:23:35 uiautomator2_cam_shots.py[line:304] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 266, in scrollToFunc
+    if  d(resourceId="com.autel.explorer:id/tv_ui_first_para", text=listAll[i]).exists():
+IndexError: list index out of range
+Wed,27 Feb 2019 16:24:01 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:24:24 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:27:49 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:28:11 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:28:39 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:29:21 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:29:52 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:30:23 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:30:58 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:31:18 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:31:45 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:32:13 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:32:38 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:32:47 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:32:58 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:33:37 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:34:13 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:34:45 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:35:20 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:36:10 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:37:06 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:38:31 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:51:41 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:51:57 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:52:15 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:52:43 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:53:04 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:53:25 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:53:49 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:54:05 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:54:35 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:55:29 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:58:09 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:58:26 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:58:53 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:59:14 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 16:59:35 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:00:02 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:00:28 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:00:45 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:01:10 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:01:32 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:01:55 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:02:17 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:02:40 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:03:03 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:03:25 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:03:48 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:04:32 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:05:02 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:05:27 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:05:52 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:06:17 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:10:18 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:10:35 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:10:51 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:11:14 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:11:35 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:12:01 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:12:25 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:12:39 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:13:11 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:13:39 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:14:01 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:14:31 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:16:01 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:16:32 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:17:24 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:18:03 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:18:48 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:19:17 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:19:35 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:20:08 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:20:39 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:21:04 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:21:32 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:21:58 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:22:25 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:22:52 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:23:20 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:23:41 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:24:02 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:24:14 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:24:38 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:24:50 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:25:15 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:25:27 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:25:49 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:26:00 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:26:26 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:26:43 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:27:03 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:27:13 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:27:37 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:27:46 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:28:11 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:28:21 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:28:45 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:29:00 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:29:28 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:29:38 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:29:58 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:30:07 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:30:33 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:30:42 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:31:12 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:31:21 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:31:48 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:31:57 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:32:23 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:32:32 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:32:54 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:33:03 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:33:24 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:33:33 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:33:53 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:34:02 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:34:22 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:34:31 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:35:22 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:35:34 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:35:48 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:35:58 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:36:16 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:36:25 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:36:44 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:36:53 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:37:11 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:37:20 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:37:38 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:37:48 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:38:10 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:38:19 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:38:40 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:38:54 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:39:16 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:39:30 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:39:52 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:40:01 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:40:24 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:40:33 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:40:57 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:41:07 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:41:36 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:41:51 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:42:24 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:42:34 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 17:43:16 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 18:05:17 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 18:05:31 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 18:05:58 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 18:06:20 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 18:06:41 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 18:07:02 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 18:07:26 uiautomator2_cam_shots.py[line:236] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 18:07:43 uiautomator2_cam_shots.py[line:237] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 18:07:59 uiautomator2_cam_shots.py[line:237] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 18:08:23 uiautomator2_cam_shots.py[line:237] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Wed,27 Feb 2019 18:14:26 uiautomator2_cam_shots.py[line:1858] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 1856, in SetPictureWBOP
+    self.insideCircleWBOP(num)
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 1643, in insideCircleWBOP
+    d.swipe(0.68, 0.82, 0.32, 0.82)  # ÍùÓÒ±ß»¬
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 381, in swipe
+    fx, fy = rel2abs(fx, fy)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 124, in convert
+    self.server.window_size())  # size will be [width, height]
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\__init__.py", line 322, in window_size
+    if (w > h) != (self.info["displayRotation"] % 2 == 1):
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\__init__.py", line 1109, in __getattr__
+    return getattr(self._default_session, attr)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 607, in info
+    return self.jsonrpc.deviceInfo()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\__init__.py", line 363, in __call__
+    params, http_timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\__init__.py", line 370, in jsonrpc_retry_call
+    return self.jsonrpc_call(*args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\__init__.py", line 449, in jsonrpc_call
+    raise err
+uiautomator2.exceptions.JsonRpcError: -32001 Jsonrpc error: <java.lang.IllegalStateException> data: java.lang.IllegalStateException: Cannot perform this action on a sealed instance.
+	at android.view.accessibility.AccessibilityNodeInfo.enforceNotSealed(AccessibilityNodeInfo.java:2992)
+	at android.view.accessibility.AccessibilityNodeInfo.setConnectionId(AccessibilityNodeInfo.java:2875)
+	at android.view.accessibility.AccessibilityInteractionClient.finalizeAndCacheAccessibilityNodeInfo(AccessibilityInteractionClient.java:817)
+	at android.view.accessibility.AccessibilityInteractionClient.finalizeAndCacheAccessibilityNodeInfos(AccessibilityInteractionClient.java:835)
+	at android.view.accessibility.AccessibilityInteractionClient.findAccessibilityNodeInfoByAccessibilityId(AccessibilityInteractionClient.java:308)
+	at android.view.accessibility.AccessibilityInteractionClient.getRootInActiveWindow(AccessibilityInteractionClient.java:165)
+	at android.app.UiAutomation.getRootInActiveWindow(UiAutomation.java:479)
+	at android.support.test.uiautomator.QueryController.getRootNode(QueryController.java:182)
+	at android.support.test.uiautomator.QueryController.getCurrentPackageName(QueryController.java:512)
+	at android.support.test.uiautomator.UiDevice.getCurrentPackageName(UiDevice.java:653)
+	at com.github.uiautomator.stub.DeviceInfo.<init>(DeviceInfo.java:51)
+	at com.github.uiautomator.stub.DeviceInfo.getDeviceInfo(DeviceInfo.java:44)
+	at com.github.uiautomator.stub.AutomatorServiceImpl.deviceInfo(AutomatorServiceImpl.java:105)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.googlecode.jsonrpc4j.JsonRpcBasicServer.invoke(JsonRpcBasicServer.java:467)
+	at com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleObject(JsonRpcBasicServer.java:352)
+	at com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleJsonNodeRequest(JsonRpcBasicServer.java:283)
+	at com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleRequest(JsonRpcBasicServer.java:251)
+	at com.github.uiautomator.stub.AutomatorHttpServer.serve(AutomatorHttpServer.java:100)
+	at fi.iki.elonen.NanoHTTPD.serve(NanoHTTPD.java:2244)
+	at fi.iki.elonen.NanoHTTPD$HTTPSession.execute(NanoHTTPD.java:945)
+	at fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:192)
+	at java.lang.Thread.run(Thread.java:764)
+, method: deviceInfo
+Wed,27 Feb 2019 20:10:23 uiautomator2_cam_shots.py[line:1858] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 1856, in SetPictureWBOP
+    self.insideCircleWBOP(num)
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 1646, in insideCircleWBOP
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=num).exists():
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\utils.py", line 91, in __call__
+    return bool(self)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\utils.py", line 81, in __bool__
+    return self.__nonzero__()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\utils.py", line 77, in __nonzero__
+    return self.uiobject.jsonrpc.exist(self.uiobject.selector)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\__init__.py", line 363, in __call__
+    params, http_timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\__init__.py", line 370, in jsonrpc_retry_call
+    return self.jsonrpc_call(*args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\__init__.py", line 449, in jsonrpc_call
+    raise err
+uiautomator2.exceptions.JsonRpcError: -32001 Jsonrpc error: <java.lang.IllegalStateException> data: java.lang.IllegalStateException: Cannot perform this action on a sealed instance.
+	at android.view.accessibility.AccessibilityNodeInfo.enforceNotSealed(AccessibilityNodeInfo.java:2992)
+	at android.view.accessibility.AccessibilityNodeInfo.setConnectionId(AccessibilityNodeInfo.java:2875)
+	at android.view.accessibility.AccessibilityInteractionClient.finalizeAndCacheAccessibilityNodeInfo(AccessibilityInteractionClient.java:817)
+	at android.view.accessibility.AccessibilityInteractionClient.finalizeAndCacheAccessibilityNodeInfos(AccessibilityInteractionClient.java:835)
+	at android.view.accessibility.AccessibilityInteractionClient.findAccessibilityNodeInfoByAccessibilityId(AccessibilityInteractionClient.java:308)
+	at android.view.accessibility.AccessibilityWindowInfo.getRoot(AccessibilityWindowInfo.java:193)
+	at android.support.test.uiautomator.UiDevice.getWindowRoots(UiDevice.java:1110)
+	at android.support.test.uiautomator.UiDevice.hasObject(UiDevice.java:137)
+	at android.support.test.uiautomator.Until$2.apply(Until.java:55)
+	at android.support.test.uiautomator.Until$2.apply(Until.java:52)
+	at android.support.test.uiautomator.WaitMixin.wait(WaitMixin.java:40)
+	at android.support.test.uiautomator.WaitMixin.wait(WaitMixin.java:34)
+	at android.support.test.uiautomator.UiDevice.wait(UiDevice.java:174)
+	at com.github.uiautomator.stub.AutomatorServiceImpl.exist(AutomatorServiceImpl.java:757)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.googlecode.jsonrpc4j.JsonRpcBasicServer.invoke(JsonRpcBasicServer.java:467)
+	at com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleObject(JsonRpcBasicServer.java:352)
+	at com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleJsonNodeRequest(JsonRpcBasicServer.java:283)
+	at com.googlecode.jsonrpc4j.JsonRpcBasicServer.handleRequest(JsonRpcBasicServer.java:251)
+	at com.github.uiautomator.stub.AutomatorHttpServer.serve(AutomatorHttpServer.java:100)
+	at fi.iki.elonen.NanoHTTPD.serve(NanoHTTPD.java:2244)
+	at fi.iki.elonen.NanoHTTPD$HTTPSession.execute(NanoHTTPD.java:945)
+	at fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:192)
+	at java.lang.Thread.run(Thread.java:764)
+, method: exist
+Thu,28 Feb 2019 09:06:19 uiautomator2_cam_shots.py[line:1090] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 968, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Thu,28 Feb 2019 09:08:11 uiautomator2_cam_shots.py[line:1855] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 1852, in SetPictureWB
+    d(resourceId="com.autel.explorer:id/tv_ui_first_para", text=u"WB").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Thu,28 Feb 2019 09:46:33 uiautomator2_cam_shots.py[line:387] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 349, in scrollToFunc
+    if  d(resourceId="com.autel.explorer:id/tv_ui_first_para", text=listAll[i]).exists():
+IndexError: list index out of range
+Thu,28 Feb 2019 09:47:41 uiautomator2_cam_shots.py[line:1856] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 1853, in SetPictureWB
+    d(resourceId="com.autel.explorer:id/tv_ui_first_para", text=u"WB").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Thu,28 Feb 2019 09:48:15 uiautomator2_cam_shots.py[line:316] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Thu,28 Feb 2019 09:51:46 uiautomator2_cam_shots.py[line:851] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 843, in SetPictureMode
+    d(resourceId="com.autel.explorer:id/tv_ui_first_para", text='MODE').click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Thu,28 Feb 2019 09:51:48 uiautomator2_cam_shots.py[line:1091] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 969, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range
+Thu,28 Feb 2019 09:51:50 uiautomator2_cam_shots.py[line:316] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Thu,28 Feb 2019 09:51:55 uiautomator2_cam_shots.py[line:387] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 349, in scrollToFunc
+    if  d(resourceId="com.autel.explorer:id/tv_ui_first_para", text=listAll[i]).exists():
+IndexError: list index out of range
+Thu,28 Feb 2019 09:53:02 uiautomator2_cam_shots.py[line:2027] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 2024, in SetPictureWBOP
+    d(resourceId="com.autel.explorer:id/tv_ui_first_para", text=u"WB").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Thu,28 Feb 2019 10:04:05 uiautomator2_cam_shots.py[line:316] ERROR <class 'Cam.test_temp.uiautomator2_cam_shots.SwitchError'>
+NoneType: None
+Thu,28 Feb 2019 10:04:10 uiautomator2_cam_shots.py[line:387] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 349, in scrollToFunc
+    if  d(resourceId="com.autel.explorer:id/tv_ui_first_para", text=listAll[i]).exists():
+IndexError: list index out of range
+Thu,28 Feb 2019 11:06:24 uiautomator2_cam_shots.py[line:1220] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 1218, in SetPictureExpo
+    d(resourceId="com.autel.explorer:id/tv_second_para", text=u"MANUAL").click()
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 39, in _inner
+    return fn(self, *args, **kwargs)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 745, in click
+    self.must_wait(timeout=timeout)
+  File "C:\Users\R19001\AppData\Local\Programs\Python\Python36\lib\site-packages\uiautomator2\session.py", line 930, in must_wait
+    raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})
+uiautomator2.exceptions.UiObjectNotFoundError: -32002 Client error: <> data: , method: None
+Fri,22 Mar 2019 09:41:50 uiautomator2_cam_shots.py[line:1091] ERROR ------------Exceptions Caught--------
+Traceback (most recent call last):
+  File "C:\Autel_2019_01_07\Cam\test_temp\uiautomator2_cam_shots.py", line 969, in SetPictureMode
+    if d(resourceId="com.autel.explorer:id/tv_second_para", text=listMode[i]):
+IndexError: list index out of range

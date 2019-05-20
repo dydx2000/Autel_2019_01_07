@@ -1,0 +1,100 @@
+
+
+
+
+self.driver.find_element_by_id("com.autel.explorer:id/tv_register").click()
+        self.driver.find_element_by_id("com.autel.explorer:id/ed_email").send_keys("abc123@qq.com")
+        self.driver.find_element_by_id("com.autel.explorer:id/ed_pwd").send_keys("abc123456")
+        self.driver.find_element_by_id("com.autel.explorer:id/ed_repeat_pwd").send_keys("abc123456")
+        self.driver.find_element_by_id("com.autel.explorer:id/btn_login").click()
+
+
+des_cap['platformName'] = 'Android'
+# LG
+des_cap['platformVersion']='7'
+des_cap['deviceName']='192.168.1.12:5555'
+des_cap['automationName'] = 'Appium'
+des_cap['noReset'] = True
+des_cap['appPackage'] = 'com.autel.explorer'
+des_cap['appActivity'] = 'com.autel.modelb.view.autelhome.AutelHomeActivity'
+des_cap['skipDeviceInitialization']=True
+des_cap['disableAndroidWatchers']=True
+des_cap['unicodeKeyboard']=True
+des_cap['resetKeyboard']=True
+
+
+des_cap['platformName'] = 'Android'
+des_cap['platformVersion']='7'
+des_cap['deviceName']='192.168.1.12:5555' #LG
+des_cap['automationName'] = 'Appium'
+des_cap['noReset'] = True
+des_cap['appPackage'] = 'com.autel.explorer'
+des_cap['appActivity'] = 'com.autel.modelb.view.autelhome.AutelHomeActivity'
+des_cap['skipDeviceInitialization']=True
+des_cap['disableAndroidWatchers']=True
+des_cap['unicodeKeyboard']=True
+des_cap['resetKeyboard']=True
+
+#Camera01
+driver.find_element_by_id("com.autel.explorer:id/tv_autel_home_start").click()
+driver.find_element_by_id("com.autel.explorer:id/rl_setting").click()
+driver.find_element_by_android_uiautomator('new UiSelector().text("飞控")').click()
+time.sleep(2)
+driver.find_element_by_id("com.autel.explorer:id/distance_cur_value_et").send_keys("55")
+driver.keyevent(66)
+driver.find_element_by_id("com.autel.explorer:id/rb_frenzy").click()
+print(driver.current_activity)
+
+#拍照按钮
+com.autel.explorer:id/rel_camera_takephoto_controller
+
+	mode: com.autel.explorer:id/rl_setting_item
+
+Mode:
+xpath
+	/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout/android.widget.RelativeLayout/android.widget.RelativeLayout[2]/android.widget.RelativeLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.widget.RelativeLayout[1]
+
+exposure mode 	com.autel.explorer:id/rl_setting_item
+
+awb :xpach
+/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout/android.widget.RelativeLayout/android.widget.RelativeLayout[2]/android.widget.RelativeLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.widget.RelativeLayout[6]
+
+# 拍照录相切换按钮
+xpath
+/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.view.ViewGroup[1]/android.widget.FrameLayout[5]/android.widget.FrameLayout/android.widget.RelativeLayout[1]/android.widget.ImageView
+id : 	com.autel.explorer:id/iv_mode_switcher
+
+
+
+
+#查看图片按钮
+xpath
+/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.view.ViewGroup[1]/android.widget.FrameLayout[5]/android.widget.FrameLayout/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.ImageView
+id: com.autel.explorer:id/civ_album_playback
+
+#单拍
+xpath
+/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout/android.widget.RelativeLayout[1]/android.widget.RelativeLayout/android.widget.RelativeLayout/android.widget.RelativeLayout/android.support.v7.widget.RecyclerView/android.widget.RelativeLayout[1]
+
+in xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout/android.widget.RelativeLayout[1]/android.widget.RelativeLayout/android.widget.RelativeLayout/android.widget.RelativeLayout/android.support.v7.widget.RecyclerView/android.widget.RelativeLayout[1]/android.widget.TextView
+id: 	com.autel.explorer:id/rl_mode_parameter_item
+	text: SINGLE
+
+# 连拍
+xpath
+	/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout/android.widget.RelativeLayout[1]/android.widget.RelativeLayout/android.widget.RelativeLayout/android.widget.RelativeLayout/android.support.v7.widget.RecyclerView/android.widget.RelativeLayout[2]/android.widget.TextView
+	id:com.autel.explorer:id/tv_second_para
+	text: 	BURST
+
+
+
+
+
+# 未登录,登录图标ID
+id:com.autel.explorer:id/iv_user_icon_default
+class: android.widget.ImageView
+
+
+# 已登录,登录图标ID
+id:com.autel.explorer:id/iv_user_icon_default
+class: android.widget.ImageView

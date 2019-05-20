@@ -1,0 +1,241 @@
+
+
+Mon,01 Apr 2019 09:59:48 logger_test_01.py[line:21] INFO info类型的日志
+
+
+Mon,01 Apr 2019 09:59:48 logger_test_01.py[line:22] ERROR error 的日志
+2019-04-01 10:05:51 INFO info类型的日志
+2019-04-01 10:05:51 ERROR error 的日志
+2019-04-01 10:16:22 ERROR error 的日志
+
+
+2019-04-01 10:16:40 ERROR error 的日志
+2019-04-01 10:36:20 ERROR error 的日志
+2019-04-01 10:36:27 ERROR error 的日志
+2019-04-01 10:36:34 ERROR error 的日志
+2019-04-01 10:36:58 ERROR error 的日志
+2019-04-01 10:37:03 ERROR error 的日志
+2019-04-01 10:37:10 ERROR error 的日志
+2019-04-01 10:38:22 INFO info类型的日志
+2019-04-01 10:38:22 ERROR error 的日志
+2019-04-01 10:38:22 INFO fx start
+2019-04-01 10:38:22 INFO fx ends.
+2019-04-01 10:47:20 INFO info类型的日志
+2019-04-01 10:47:20 ERROR error 的日志
+2019-04-01 10:47:20 INFO fx start
+2019-04-01 10:47:20 INFO fx ends.
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:47:20 INFO this is a log in util module
+2019-04-01 10:48:26 INFO info类型的日志 <module>
+2019-04-01 10:48:26 ERROR error 的日志 <module>
+2019-04-01 10:48:26 INFO fx start <module>
+2019-04-01 10:48:26 INFO fx ends. <module>
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:26 INFO this is a log in util module f
+2019-04-01 10:48:41 INFO info类型的日志 <module>
+2019-04-01 10:48:41 ERROR error 的日志 <module>
+2019-04-01 10:48:41 INFO fx start <module>
+2019-04-01 10:48:41 INFO fx ends. <module>
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:48:41 INFO this is a log in fx module f
+2019-04-01 10:49:33 INFO info类型的日志 <module>
+2019-04-01 10:49:33 ERROR error 的日志 <module>
+2019-04-01 10:49:33 INFO fx start <module>
+2019-04-01 10:49:33 INFO fx ends. <module>
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:49:33 INFO this is a log in fx module feibo
+2019-04-01 10:52:55 INFO info类型的日志 <module>
+2019-04-01 10:52:55 ERROR error 的日志 <module>
+2019-04-01 10:52:55 INFO fx start <module>
+2019-04-01 10:52:55 INFO fx ends. <module>
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:52:55 INFO an error occurred.  feibo
+2019-04-01 10:53:02 INFO info类型的日志 <module>
+2019-04-01 10:53:02 ERROR error 的日志 <module>
+2019-04-01 10:53:02 INFO fx start <module>
+2019-04-01 10:53:02 INFO fx ends. <module>
+2019-04-01 10:53:02 INFO an error occurred.  feibo
+2019-04-01 10:53:02 INFO an error occurred.  feibo
+2019-04-01 10:53:02 INFO an error occurred.  feibo
+
+
+2019-04-01 10:53:24 INFO info类型的日志 <module>
+2019-04-01 10:53:24 ERROR error 的日志 <module>
+2019-04-01 10:53:24 INFO fx start <module>
+2019-04-01 10:53:24 INFO fx ends. <module>
+2019-04-01 10:53:24 INFO an error occurred.  feibo
+2019-04-01 10:53:24 INFO an error occurred.  feibo
+2019-04-01 10:53:24 INFO an error occurred.  feibo
+2019-04-01 10:55:14 INFO info类型的日志 <module>
+2019-04-01 10:55:14 ERROR error 的日志 <module>
+2019-04-01 10:55:14 INFO fx start <module>
+2019-04-01 10:55:14 INFO an error occurred.  feibo
+2019-04-01 10:55:14 INFO an error occurred.  feibo
+2019-04-01 10:55:14 INFO an error occurred.  feibo
+2019-04-01 10:55:14 INFO fx ends. <module>
+2019-04-01 10:55:38 INFO info类型的日志 <module>
+2019-04-01 10:55:38 ERROR error 的日志 <module>
+2019-04-01 10:55:38 INFO fx start <module>
+2019-04-01 10:55:38 INFO 
+an error occurred. 
+ feibo
+2019-04-01 10:55:38 INFO 
+an error occurred. 
+ feibo
+2019-04-01 10:55:38 INFO 
+an error occurred. 
+ feibo
+2019-04-01 10:55:38 INFO fx ends. <module>
+2019-04-01 10:56:01 INFO info类型的日志 <module>
+2019-04-01 10:56:01 ERROR error 的日志 <module>
+2019-04-01 10:56:01 INFO fx start <module>
+2019-04-01 10:56:01 INFO 
+an error occurred feibo
+2019-04-01 10:56:01 INFO 
+an error occurred feibo
+2019-04-01 10:56:01 INFO 
+an error occurred feibo
+2019-04-01 10:56:01 INFO fx ends. <module>
+
+
+
+2019-04-01 10:56:09 INFO info类型的日志 <module>
+2019-04-01 10:56:09 ERROR error 的日志 <module>
+2019-04-01 10:56:09 INFO fx start <module>
+2019-04-01 10:56:09 INFO 
+an error occurred feibo
+2019-04-01 10:56:09 INFO 
+an error occurred feibo
+2019-04-01 10:56:09 INFO 
+an error occurred feibo
+2019-04-01 10:56:09 INFO fx ends. <module>
+
+
+2019-04-01 10:56:20 INFO fx start <module>
+2019-04-01 10:56:20 INFO 
+an error occurred feibo
+2019-04-01 10:56:20 INFO 
+an error occurred feibo
+2019-04-01 10:56:20 INFO 
+an error occurred feibo
+2019-04-01 10:56:20 INFO fx ends. <module>
+
+
+2019-04-01 10:57:03 INFO an error occurred feibo
+2019-04-01 10:57:03 INFO an error occurred feibo
+2019-04-01 10:57:03 INFO an error occurred feibo

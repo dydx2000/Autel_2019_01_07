@@ -1,0 +1,74 @@
+DEBUG:root:This message should go to the log file
+ERROR:root:Got exception on main handler
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/temp_log_test.py", line 21, in <module>
+    1/0
+ZeroDivisionError: division by zero
+ERROR:root:Got exception on main handler
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/temp_log_test.py", line 21, in <module>
+    1/0
+ZeroDivisionError: division by zero
+
+dd
+
+
+ERROR:root:Got exception on main handler
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/temp_log_test.py", line 21, in <module>
+    1/0
+ZeroDivisionError: division by zero
+ERROR:root:Exceptions Caught
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/temp_log_test.py", line 21, in <module>
+    1/0
+ZeroDivisionError: division by zero
+ERROR:root:Exceptions Caught
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/temp_log_test.py", line 21, in <module>
+    1/0
+ZeroDivisionError: division by zero
+ddd
+d
+ddd
+ERROR:root:Exceptions Caught
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/temp_log_test.py", line 22, in <module>
+    1/0
+ZeroDivisionError: division by zero
+ERROR:root:Exceptions Caught
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/temp_log_test.py", line 22, in <module>
+    1/0
+ZeroDivisionError: division by zero
+-------------------------------------------------
+ERROR:root:Exceptions Caught
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/temp_log_test.py", line 22, in <module>
+    1/0
+ZeroDivisionError: division by zero
+ERROR:root:-------------------Exceptions Caught---------------------------------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/temp_log_test.py", line 22, in <module>
+    1/0
+ZeroDivisionError: division by zero
+ERROR:root:-------------------Exceptions Caught---------------------------------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/temp_log_test.py", line 22, in <module>
+    1/0
+ZeroDivisionError: division by zero
+ERROR:root:-------------------Exceptions Caught---------------------------------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/temp_log_test.py", line 22, in <module>
+    1/0
+ZeroDivisionError: division by zero
+ERROR:root:-------------------Exceptions Caught---------------------------------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/temp_log_test.py", line 22, in <module>
+    1/0
+ZeroDivisionError: division by zero  dsdsds
+ERROR:root:-------------------Exceptions Caught---------------------------------
+Traceback (most recent call last):
+  File "E:/AppiumTest/Cam/temp_log_test.py", line 22, in <module>
+    1/0
+ZeroDivisionError: division by zero
